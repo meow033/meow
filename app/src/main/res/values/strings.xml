@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">splashvlada</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_skachat">скачать</string>
+    <string name="action_proclyshat">прослушать</string>
+    <string name="action_ponravilos">понравилось</string>
+</resources>
